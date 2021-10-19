@@ -24,10 +24,24 @@ html {
   font-size: 26px;
 }
 #About-Me {
+  background-color: transparent;
   color: white;
-  left: 95px;
+  left: 87px;
   position: fixed;
+  top: 15px;
+  border-color: transparent;
 }
-p:hover {
+#About-Me:hover {
+  color: black;
+}
+#Projects {
+  background-color: transparent;
+  color: white;
+  left: 167px;
+  position: fixed;
+  top: 15px;
+  border-color: transparent;
+}
+#Projects:hover {
   color: black;
 }
